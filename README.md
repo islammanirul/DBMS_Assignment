@@ -1,6 +1,10 @@
 # DBMS Assignment — ToyDB Extensions
 **Course:** Database Management Systems  
 **Instructor:** Nitin Awathare 
+**Name:** Manirul Islam
+**Roll No.** B24BS2192
+**Course:** B.S/B.Sc. Apllied AI and Data Science
+**College:** Indian Institute Of Technology,Jodhpur
 
 ## Overview
 This project extends the **toyDB** storage and indexing engine across three core components:
