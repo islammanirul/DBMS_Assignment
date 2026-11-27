@@ -1,0 +1,12 @@
+.venv/
+*.tar
+*.tar.gz
+*.o
+*.db
+*.0
+a.out
+testpf
+test_buf
+test_slotted
+test_index
+.DS_Store
